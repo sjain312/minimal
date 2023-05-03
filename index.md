@@ -10,114 +10,55 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Data Enthusiast
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am currently workin as a Seniro Auditor at American Express. I have completed my Ph.D. in Economics from Shiv Nadar University, India.
 
-## Header 2
+## About Myself
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+My research interests lie in the areas of macroeconomics, international economics, and applied econometrics.  My work mainly focuses on the evolution of the manufacturing sector using the Annual Survey of Industries (ASI) starting from 1983-84 and to the period 2012-13.  I have presented my work at various national and international conferences. My strength in doing research is to love playing with numbers and that helps me to handle any dataset with ease. 
 
-### Header 3
+### Research Publications
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+A. Journals and others
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+“Lives and Livelihood: An Exit Strategy from Lockdown" (with Partha Chatterjee  and  Soma Dey )  Economic and Political Weekly, 55(22).
+                    - Press coverage in The New Indian Express, Edex Live and ​BW Business World.
 
-#### Header 4
+"What Really Affects Plant-level Productivity?". Review of Market Integration, 0974929220935010.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+B. Book Chapter  
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+"The COVID-19 Pandemic, India and the World. Economic and Social Policy Perspectives" , with Partha Chatterjee, in The COVID-19 Pandemic, India and the World. Economic and Social Policy Perspectives, Rajib Bhattacharyya, Ananya Ghosh Dastidar, and Soumyen Sikdar (eds), Taylor & Francis., September 2021. 
 
 
-### Definition lists can be used with HTML syntax.
+#### Working Papers
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+“Did Economic Reforms Affect Manufacturing Productivity in India" (with Partha Chatterjee )
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+“Evolution of Distribution of Plant-Level Productivity” (with Partha Chatterjee )
 
-```
-The final element.
-```
+“Does higher human capital help in pollution compliance”( with Trishita Ray Barman)
+
+##### Teaching
+
+1.  Instructor, Shiv Nadar University
+B.Sc.( Research) in Economics
+Logic and Scientific Methods
+Spring 2020, Spring 2019, Monsoon 2018
+
+2. Teaching Assistant, Shiv Nadar University
+MBA
+Macroeconomics, External Environment and Policy. (M.B.A.)
+Spring 2016
+
+3. M.Sc. in Economics
+Macroeconomics
+Monsoon 2015
+
+4. Visiting Faculty, Vivekananda Institute of Professional Studies (Affiliated to Guru Gobind Singh Indraprastha University) 
+Undergraduate
+Macroeconomics, Operation Research and Accountancy
+Spring (2014)
+
+
